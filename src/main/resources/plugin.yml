@@ -1,0 +1,6 @@
+name: SenakMenu
+version: ${project.version}
+main: me.viteokanh.TestPlugin
+api-version: 1.16
+authors: [ ViteoKanh ]
+description: 這是一個插件
